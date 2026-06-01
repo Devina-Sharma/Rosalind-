@@ -1,0 +1,5 @@
+f = open('rosalind_ini5.txt', 'r')
+g = open('output.txt', 'w')
+for x in f.readlines()[1::2]:
+  g.write(x)
+g.close()
