@@ -1,0 +1,5 @@
+a = 809
+b= 968
+
+pytho = a**2 + b**2
+print (pytho)
