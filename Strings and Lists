@@ -1,0 +1,15 @@
+s = "zUyQS07Ro8M49y1Se9Rqb9PIuBeYXD1OF3z8f5CalotesLoIRWEB6YtveorDwHYR4mxAVfh930In0OxZEArGtD0wLV0qn9fgICyFiQqi8H1sJKZKpAzrEUP1melesp6FMvtLnireU1QwJnTYizxGWSfJWTYBmvlmWRq18YmyKTLeawZnoMCfNwzKMmcnBTN"
+
+a = 38
+b = 44
+c = 120
+d = 124
+
+first = s[ a:b +1 ]
+second = s[ c:d +1 ]
+
+print (first, second)
+
+
+
+Output = Calotes meles
